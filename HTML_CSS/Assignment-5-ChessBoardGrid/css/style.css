@@ -1,0 +1,168 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  text-align: center;
+}
+
+#pawn-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://i.pinimg.com/600x315/88/22/aa/8822aac5f62c6f7b3736ec62b59038df.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#pawn-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX1648826.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#rook-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://www.desktopbackground.org/download/o/2012/07/28/428053_chess-pieces-rook-by-ratm4200-on-deviantart_1024x768_h.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#rook-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://image.freepik.com/free-photo/chess-rook-white-background-3d-rendering_48397-41.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#horse-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://media.istockphoto.com/vectors/chess-knight-icon-on-black-background-black-flat-style-vector-vector-id1161114557?k=6&m=1161114557&s=170667a&w=0&h=RVeD5R9ineCkNePAWNM9pQQIwe6nvWXI251PfRUli9E=)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#horse-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://i.pinimg.com/736x/18/2d/0e/182d0e8ed9f49b946129228a137591ab.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#bishop-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://images.fineartamerica.com/images-medium-large-5/bishop-chess-piece-ktsdesign.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#bishop-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://cdn.shopify.com/s/files/1/1145/0224/products/white_bishop_large.jpg?v=1461355136)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#king-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://cdn.wallpapersafari.com/58/32/t6pQPG.jpg) no-repeat
+    center center scroll;
+  background-size: cover;
+}
+
+#king-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://cdn.shopify.com/s/files/1/1145/0224/products/white_king_large.jpg?v=1461355124)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#queen-black {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://images.fineartamerica.com/images-medium-large-5/2-queen-chess-piece-ktsdesign.jpg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+#queen-white {
+  display: table;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: url(https://i5.walmartimages.com/asr/67be1de4-de27-4035-82ae-9b1a947d4d69_1.c6307d8eb14b39a094fb1a2b0317bd38.jpeg)
+    no-repeat center center scroll;
+  background-size: cover;
+}
+
+.chessboard {
+  border: 10px solid brown;
+  display: grid;
+  grid-gap: 0;
+  grid-template-columns: 1fr;
+  height: 75vw;
+  width: 75vw;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+.white-box {
+  background-color: white;
+  flex: 1;
+  grid-area: white-box;
+}
+
+.black-box {
+  background-color: black;
+  flex: 1;
+  grid-area: black-box;
+}
+
+/*  
+@media (max-width: 800px) {
+  .chessboard,
+  .black-box,
+  .white-box,
+  .row {
+    flex: 100%;
+  }
+}
+*/
