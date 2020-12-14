@@ -14,7 +14,7 @@
 ## Activities
 
 <ol>
-  <li><a href="#">Activity 1</a> - Landing Page</li>
+  <li><a href="https://buuloooy0318.github.io/batch5-activities/HTML_CSS_ACTIVITIES/Activity-2%20Survey%20Form/Activity-1%20Landing%20Page/landpage.html">Activity 1</a> - Landing Page</li>
   <li><a href="https://buuloooy0318.github.io/batch5-activities/HTML_CSS_ACTIVITIES/Activity-2%20Survey%20Form/surveyform.html">Activity 2</a> - Survey Form</li>
 </ol>
 
