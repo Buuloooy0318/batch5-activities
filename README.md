@@ -19,6 +19,12 @@
   <li><a href="https://buuloooy0318.github.io/batch5-activities/HTML_CSS_ACTIVITIES/Activity-2%20Survey%20Form/Activity-3%20Calculator/calculator.html">Activity 3</a> - Calculator</li>
 </ol>
 
+## Coding Challenges
+
+<ol>
+  <li><a href="https://jsfiddle.net/Buuloooy0318/0wfy76mj/3/">BMI Calculator</a></li>
+</ol>
+
 ## Author
 <p>John Christian M. Ferrer</p>
 <p>Future Programmer</p>
