@@ -25,10 +25,10 @@
   <li><a href="https://jsfiddle.net/Buuloooy0318/0wfy76mj/3/">BMI Calculator</a></li>
 </ol>
 
-## Coding Challenges
+## Projects
 
 <ol>
-  <li><a href="https://github.com/Buuloooy0318/batch5-activities/blob/main/README.md"></a>Chess Functionality</li>
+  <li><a href="https://github.com/Buuloooy0318/batch5-activities">Chess Functionality</a></li>
 </ol>
 
 ## Author
