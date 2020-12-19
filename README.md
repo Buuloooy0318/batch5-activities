@@ -25,6 +25,12 @@
   <li><a href="https://jsfiddle.net/Buuloooy0318/0wfy76mj/3/">BMI Calculator</a></li>
 </ol>
 
+## Coding Challenges
+
+<ol>
+  <li><a href="#"></a>Chess Functionality</li>
+</ol>
+
 ## Author
 <p>John Christian M. Ferrer</p>
 <p>Future Programmer</p>
