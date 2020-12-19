@@ -28,7 +28,7 @@
 ## Coding Challenges
 
 <ol>
-  <li><a href="#"></a>Chess Functionality</li>
+  <li><a href="https://github.com/Buuloooy0318/batch5-activities/blob/main/README.md"></a>Chess Functionality</li>
 </ol>
 
 ## Author
