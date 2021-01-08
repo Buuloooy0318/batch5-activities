@@ -28,7 +28,7 @@
 ## Projects
 
 <ol>
-  <li><a href="https://github.com/Buuloooy0318/batch5-activities/LAB_WORKS/Lab1%20-%20ChessBoardFunctional/chess.html">Chess Functionality</a></li>
+  <li><a href="https://buuloooy0318.github.io/batch5-activities/LAB_WORKS/Lab1%20-%20ChessBoardFunctional/chess.html">Chess Functionality</a></li>
 </ol>
 
 ## Author
